@@ -13,6 +13,8 @@
   Svelte Kit Pokedex
 </h1>
 
-{#each $pokemon as pokeman}
-  <PokemanCard pokeman={pokeman} />
-{/each}
+<div class="py-4 grid gap-4 md:grid-cols-2 grid-cols-1">
+  {#each $pokemon as pokeman}
+    <PokemanCard pokeman={pokeman} />
+  {/each}
+</div>
