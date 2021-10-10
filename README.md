@@ -1,3 +1,7 @@
+# SvelteKit Crash Course 写経
+写経元: https://www.youtube.com/watch?v=UU7MgYIbtAk&t=2392s
+日本語説明記事: https://notion.so/fuurin/SvelteKit-Crash-Course-02887b265bf047ccbba7f77f59c11178#ee06fb42bac34ac2898bd7d855e52381
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
